@@ -165,4 +165,4 @@ def unregister_from_activity(activity_name: str, email: str):
     activity["participants"].remove(email)
     # Persist changes
     save_activities(activities)
-    return {"message": f"Unregistered {email} from {activity_name}"}],
+    return {"message": f"Unregistered {email} from {activity_name}"}
