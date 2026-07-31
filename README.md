@@ -8,6 +8,8 @@ Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
+This branch includes a small documentation test update to validate the branch, push, and pull request workflow.
+
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Yarzarmyomin97/skills-integrate-mcp-with-copilot/issues/1)
 
 ---
